@@ -1,4 +1,4 @@
-# GitHub Copilot app
+سلام برنامه جوری طراحی کنیدکه کسی که مبتدی هست بفهمه ازکجاشروع کنه وکجااجراکنه دقیقااگه کاربریش مثل تلگرام میبودوهمه بتونن استفاده ‌نن مننون# GitHub Copilot app
 
 The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
 
